@@ -46,5 +46,5 @@ Welcome to my GitHub profile! I am a Software Engineering student passionate abo
 ---
 
 ## 📫 How to Reach Me
-- Email: [your_email@example.com](darshanmn2327@gmail.com)
+- Email: [darshanmn2327@gmail.com](darshanmn2327@gmail.com)
 - LinkedIn: [Darshan M N](https://www.linkedin.com/in/darshan-m-n-7546b632b/)
