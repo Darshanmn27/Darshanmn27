@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I am a Software Engineering student passionate abo
 ## 🌐 Connect with Me
 <p align="center">
     <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/darshan-m-n-754" target="_blank">
+    <a href="https://www.linkedin.com/in/darshan-m-n-7546b632b/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" />
     </a>
     <!-- GitHub -->
