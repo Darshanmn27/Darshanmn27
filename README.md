@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I am a Software Engineering student passionate abo
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" />
     </a>
     <!-- GitHub -->
-    <a href="https://darshanm27.github.io/darshan27/" target="_blank">
+    <a href="https://github.com/Darshanmn27" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="40" height="40" />
     </a>
     <!-- LeetCode -->
@@ -46,5 +46,5 @@ Welcome to my GitHub profile! I am a Software Engineering student passionate abo
 ---
 
 ## 📫 How to Reach Me
-- Email: [your_email@example.com](mailto:your_email@example.com)
-- LinkedIn: [Darshan M N](https://www.linkedin.com/in/darshan-m-n-754)
+- Email: [your_email@example.com](darshanmn2327@gmail.com)
+- LinkedIn: [Darshan M N](https://www.linkedin.com/in/darshan-m-n-7546b632b/)
