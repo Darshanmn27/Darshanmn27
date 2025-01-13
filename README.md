@@ -27,6 +27,11 @@ Welcome to my GitHub profile! I am a Software Engineering student passionate abo
     <a href="https://leetcode.com/u/darshanmn2327/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" />
     </a>
+    </a>
+    <!-- Portfolio Website -->
+    <a href="https://darshanmn27.github.io/Portfolio/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="40" height="40" />
+    </a>
 </p>
 
 ---
