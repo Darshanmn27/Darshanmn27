@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I am a Software Engineering student passionate abo
     </a>
     </a>
     <!-- Portfolio Website -->
-    <a href="https://darshanmn27.github.io/Portfolio/" target="_blank">
+    <a href="https://darshanmn27.github.io/pf/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="40" height="40" />
     </a>
 </p>
@@ -44,9 +44,9 @@ Welcome to my GitHub profile! I am a Software Engineering student passionate abo
 ---
 
 ## 🔥 Top Projects
-- [Health and Fitness Tracker Website](https://github.com/darshanm27/fitness-tracker)
-- [Sudoku Game Application](https://github.com/darshanm27/sudoku-game)
-- [Hospital Management System](https://github.com/darshanm27/hospital-management-system)
+- [Health and Fitness Tracker Website](https://github.com/Darshanmn27/Mental_Health_Tracker/tree/main/mental_health_fitness_tracker)
+- [Student Result Management System ](https://github.com/Darshanmn27/Student-Result-Management-System)
+- [Hospital Management System](https://github.com/Darshanmn27/Hospital_Management)
 
 ---
 
