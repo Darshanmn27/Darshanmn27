@@ -1,15 +1,38 @@
-# darshanm27
-# Hi there! 👋 I'm Darshan M N
+<h1 align="center">🚀 Hey, I'm Darshan M N! 👋</h1>  
 
-Welcome to my GitHub profile! I am a Software Engineering student passionate about coding, problem-solving, and building awesome projects. 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3E7DC7&width=700&lines=Welcome+to+My+GitHub+Profile!;Final-year+Computer+Science+Student;Full-Stack+Developer+%7C+DSA+Enthusiast;Passionate+About+Problem-Solving+%26+Innovation;Let's+Connect+%F0%9F%9A%80" alt="Typing SVG" />
+</p>  
 
 ---
 
-## 🛠️ Skills and Technologies
-- **Languages:** Java, Python, JavaScript
-- **Web Development:** HTML, CSS, React.js, Django
-- **Tools:** Git, VS Code, Postman
-- **Interests:** Data Structures and Algorithms (DSA), Cloud Computing, Full-Stack Development
+## 🛠️ Tech Stack & Skills  
+
+### 🚀 Programming Languages  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+### 🌐 Web Development  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+
+### ⚡ Tools & Technologies  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+
+---
+
+## 📌 My Interests  
+🚀 **Full-Stack Development**  
+🧠 **Data Structures & Algorithms (DSA)**  
+☁ **Cloud Computing**  
+🤖 **AI & Machine Learning**  
+📊 **Data Science & Analytics**  
 
 ---
 
